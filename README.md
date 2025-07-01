@@ -15,8 +15,8 @@ I'm a passionate **Front-End Developer** from Pakistan, currently working at **S
 
 ### 📂 Featured Projects:
 - 🎯 [Portfolio Website](https://azamraza.vercel.app)
-- 🕹️ [Clock Project](https://clock-project-five.vercel.app)
-- 🔧 [Text Utils](https://text-utils-zeta-sooty.vercel.app/)
+- 🕹️ [Cart Project](https://cart-project-rosy.vercel.app)
+- 🔧 [Text Utils](https://text-utils-zeta-sooty.vercel.app)
 
 ### 📫 Connect with Me:
 - 🌐 Portfolio: [azamraza.vercel.app](https://azamraza.vercel.app)
