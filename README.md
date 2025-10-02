@@ -4,9 +4,9 @@ I'm a passionate **Front-End Developer** from Pakistan, currently working at **S
 
 ### 🚀 Tech Stack & Skills:
 - 🖥️ HTML | CSS | JavaScript
-- ⚛️ React.js | Next.js *(learning)*
+- ⚛️ React.js | Next.js | Firebase
 - 🎨 Tailwind CSS | Ant Design
-- 🛒 Shopify | WordPress *(basic knowledge)*
+- 🛒 Shopify | WordPress *(Intermediat)*
 - 💡 Responsive UI Design & Reusable Components
 
 ### 🔭 Current Goals:
