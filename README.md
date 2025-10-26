@@ -11,7 +11,7 @@ I'm a passionate **Front-End Developer** from Pakistan, currently working at **S
 
 ### 🔭 Current Goals:
 - Learning **React Native** for mobile development  
-- Exploring **Python** for backend development and automation
+- Exploring **Python** and **Node** for backend development and automation
 
 ### 📂 Featured Projects:
 - 🎯 [Portfolio Website](https://azamraza.vercel.app)
